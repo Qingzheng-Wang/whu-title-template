@@ -9,4 +9,4 @@
 | 英文地址-PDF  | [Download](https://github.com/Qingzheng-Wang/whu-title-template/releases/download/v2/whu_title_template.pdf) |
 | 英文地址-Word | [Download](https://github.com/Qingzheng-Wang/whu-title-template/releases/download/v2/whu_title_template.docx) |
 
-<img src="https://github.com/Qingzheng-Wang/whu-title-template/blob/main/whu_title_template.png?raw=true" alt="device_place" width="700" />
+<img src="./whu_title_template.png" width="700" />
